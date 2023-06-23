@@ -56,6 +56,6 @@ Three nineteenth-century finding aids for the Fagel Collection held in the Libra
 
 Volume measurements recorded by Preservation and Conservation Department, Library of Trinity College Dublin.
 
-Fagel Local Catalogue transcription and other data cleaning and merging by Joe Nankivell. 
+Fagel Local Catalogue transcribed, and all datasets cleaned, augmented and merged by Joe Nankivell. 
 
 
