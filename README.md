@@ -2,9 +2,11 @@
 
 Three nineteenth-century finding aids for the Fagel Collection held in the Library of Trinity College Dublin, transcribed, augmented, and stored as structured data. Enriched with volume measurements from modern conservation database.
 
-1. 1802 Bibliotheca Fageliana catalogue, compiled by Samuel Paterson
-2. 1872 Trinity Printed Catalogue
-3. 1809 Fagel Local Catalogue, a concordance between shelfmarks and Paterson's lot numbers, merged with the two catalogues above 
+1. 1802 Bibliotheca Fageliana catalogue, compiled by Samuel Paterson (9,755)
+2. 1872 Trinity Printed Catalogue (25,016 records)
+3. Fagel Local Catalogue (17,642 records)
+
+The manuscript Fagel Local Catalogue, created c.1809, provides a concordance between shelfmarks and Paterson's lot numbers. This lists c.17,600 volumes, which provide the organising principal for arranging data from the other two catalogues. Fuller data, including records for items bound in composite volumes, can be found in the source datasets for those catalogues.
 
 
 ## Fields included in merged dataset
