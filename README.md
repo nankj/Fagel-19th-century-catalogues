@@ -36,9 +36,9 @@ The manuscript Fagel Local Catalogue, created c.1809, provides a concordance bet
 * 1802 maps?
 * 1802 views?
 * 1802 figures?
-* 1872 Author/heading
 
 ### 1872 Trinity Printed Catalogue
+* 1872 Author/heading
 * 1872 Title
 * 1872 Imprint
 * 1872 format
