@@ -50,9 +50,12 @@ Three nineteenth-century finding aids for the Fagel Collection held in the Libra
 
 ## Acknowledgements
 
-1802 Bibliotheca Fageliana transcribed by David Brown, 2014
+1802 Bibliotheca Fageliana transcribed by David Brown, 2014.
+
 1872 Printed Catalogue converted into machine-readable files by Prof John Byrne, 1990s. This dataset cleaned, structured and augmented by staff of the Library of Trinity College Dublin, 2020-2021.
-Volume measurements recorded by Preservation and Conservation Department, Library of Trinity College Dublin
+
+Volume measurements recorded by Preservation and Conservation Department, Library of Trinity College Dublin.
+
 Fagel Local Catalogue transcription and other data cleaning and merging by Joe Nankivell. 
 
 
