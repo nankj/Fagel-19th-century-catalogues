@@ -1,11 +1,11 @@
 # Fagel-19th-century-catalogues
 
-Three nineteenth-century finding aids for the Fagel Collection held in the Library of Trinity College Dublin, transcribed, augmented, and stored as structured data
+Three nineteenth-century finding aids for the Fagel Collection held in the Library of Trinity College Dublin, transcribed, augmented, and stored as structured data. Enriched with volume measurements from modern conservation database.
 
 1. 1802 Bibliotheca Fageliana catalogue, compiled by Samuel Paterson
 2. 1872 Trinity Printed Catalogue
 3. 1809 Fagel Local Catalogue, a concordance between shelfmarks and Paterson's lot numbers, merged with the two catalogues above 
-4. Volume measurements from modern conservation database
+
 
 ## Fields included in merged dataset
 
